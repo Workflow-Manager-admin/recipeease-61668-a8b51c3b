@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/recipeease-61668-a8b51c3b/recipeease_frontend"
+}
